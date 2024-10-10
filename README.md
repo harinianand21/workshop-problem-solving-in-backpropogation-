@@ -1,10 +1,7 @@
-# workshop-problem-solving-in-backpropogation-
-
-# NAME : VMYTHILI
-# REG NO : 21223040123
-# WORKSHOP
+# Workshop-Problem solving in Backpropogation
+# NAME : HARINI A
+# REG NO : 212223040056
 # DATE: 10/10/24
-# PROBLEM SOLVING IN BACGPROPOGATION
 # AIM:
  To implement a Multi-Layer Perceptron (MLP) with one hidden layer and train it using backpropagation for 2 iterations. The goal is to minimize the error between the predicted and target outputs by adjusting the weights and biases in the network, using the given network structure, inputs, and target output.
  # PROCEDURE:
@@ -144,7 +141,8 @@ for i in range(2):
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/7a0ceb7c-fbfe-48a5-9e93-ab7fb0e2d1d1)
+![image](https://github.com/user-attachments/assets/05ae709b-38cd-4e2d-8340-c6236efd97ba)
+
 
 
 # RESULT:
